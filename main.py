@@ -6,7 +6,7 @@ from helper.get_results import get_results_for_division
 
 save_results = True 
 
-weapon = 'f'
+weapon = 's'
 gender = 'f'
 category = ''
 
